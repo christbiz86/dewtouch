@@ -1,5 +1,8 @@
 <?php
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0ee4ca56a1469150e26f41b8af3fbb0d87591e6b
 /**
  * Requests collector.
  *
